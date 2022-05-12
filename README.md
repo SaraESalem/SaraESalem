@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 👋 Hi, I’m @SaraESalem
+- Hi, I’m Sara Salem
 - 👀 I’m interested in programing , ios development , software engineering
 - 🌱 I’m currently learning distributed systems
 - 💞️ I’m looking to collaborate on open source projects
