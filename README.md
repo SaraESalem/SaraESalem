@@ -8,7 +8,8 @@
 
 ### My OWN Apps 👩‍💻 👩‍🎨 💡
 
-- In this apps I was the developer 👩‍💻 - The UI/UX designer 👩‍🎨 - The idea owner 💡
+- In these apps I was the developer 👩‍💻 - The UI/UX designer 👩‍🎨 - The idea owner 💡
+
 - Words - Learn & Play
 
   [<img alt="alt_text" width="50" height="50" src="https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png" />](https://apps.apple.com/us/app/id1615416161?platform=iphone)
