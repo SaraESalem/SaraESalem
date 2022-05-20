@@ -11,7 +11,7 @@
 - In this apps I was the developer 👩‍💻 - The UI/UX designer 👩‍🎨 - The idea owner 💡
 - Words - Learn & Play
 
-  <img src="https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png" width="50" height="50"/>
+  [<img alt="alt_text" width="50" height="50" src="https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png" />](https://apps.apple.com/us/app/id1615416161?platform=iphone)
 
 https://apps.apple.com/us/app/id1615416161?platform=iphone
 
