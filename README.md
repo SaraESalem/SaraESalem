@@ -13,7 +13,6 @@
 
   [<img alt="alt_text" width="50" height="50" src="https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png" />](https://apps.apple.com/us/app/id1615416161?platform=iphone)
 
-https://apps.apple.com/us/app/id1615416161?platform=iphone
 
 <!---
 SaraESalem/SaraESalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
