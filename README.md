@@ -10,8 +10,7 @@
 
 - In this apps I was the developer 👩‍💻 - The UI/UX designer 👩‍🎨 - The idea owner 💡
 - Words - Learn & Play
-![alt text](https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png?raw=true)
-
+<img src="https://github.com/SaraESalem/SaraESalem/blob/main/ios-marketing.png" width="30" height="30"/>
 
 https://apps.apple.com/us/app/id1615416161?platform=iphone
 
